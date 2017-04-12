@@ -9,7 +9,7 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    android:background="@drawable/smoke_wallpaper"
+    android:background="@color/majesticTheme"
     tools:context="com.procoding.majestic.fragments.MainFragment">
 
     <ImageButton
