@@ -24,6 +24,11 @@ public class HookerGeneratorFragment extends Fragment {
     private View myFragmentView;
     private Button suggestionBtn;
     private TextView hookerSuggestion;
+    private String[] fruityList = {"Mango,Tango,Kiwi", "Blueberry,wild Berry", "fruchtig1", "fruchtig2", "fruchtig3"};
+    private String[] freshList = {"Zitrone,Minze", "Paloma Ice", "frisch1","frisch2", "frisch3"};
+    private String[] fruityFreshList = {"Pfirsich,Ice,Maracuja", "Ice,PurpleHaze, love66", "fruchtig&frisch1","fruchtig&frisch2","fruchtig&frisch3" };
+    private String[] creamyList = {"Vanille, Pista", "Chai Latte", "cremig1","cremig2","cremig3"};
+    private String[] everythingList = {"Mango,Tango,Kiwi", "Blueberry,wild Berry","Zitrone,Minze", "Paloma Ice","Pfirsich,Ice,Maracuja", "Ice,PurpleHaze, love66","Vanille, Pista", "Chai Latte",};
 
 
 
@@ -62,29 +67,29 @@ public class HookerGeneratorFragment extends Fragment {
 
                 //First Item in the Spinner = Fruchtig
                 if(hookerSpinner.getSelectedItemId() == 0 ){
-                    //TODO show one of the Tastes in FruitySection
-                    hookerSuggestion.setText("Fruchtig");
+                    //TODO show one of the Tastes in FruityList
+                    hookerSuggestion.setText(fruityList[randomSearch(fruityList.length)]);
                 }else
                     //Second Item in the Spinner = Frisch!
                     if(hookerSpinner.getSelectedItemId() == 1){
-                        //TODO show one of the Tastes in the FreshSection
-                        hookerSuggestion.setText("Frisch");
+                        //TODO show one of the Tastes in the FreshList
+                        hookerSuggestion.setText(freshList[randomSearch(freshList.length)]);
                     }else
                         //Third Item in the Spinner = Fruchtig/Frisch
                         if(hookerSpinner.getSelectedItemId() == 2){
-                            //TODO show one of the Tastes in the Fruity/FreshSection
-                        hookerSuggestion.setText("Fruchtig/Frisch");
+                            //TODO show one of the Tastes in the Fruity/FreshList
+                        hookerSuggestion.setText(fruityFreshList[randomSearch(fruityFreshList.length)]);
                     }else
                         //Fourth Item in the Spinner = Cremig
                         if(hookerSpinner.getSelectedItemId() == 3){
-                            //TODO show one of the Tastes in the CreamySection
-                        hookerSuggestion.setText("Cremig");
+                            //TODO show one of the Tastes in the CreamyList
+                        hookerSuggestion.setText(creamyList[randomSearch(creamyList.length)]);
 
                     }else
                         //Fifth Item in the Spinner = Alles
                         if(hookerSpinner.getSelectedItemId() == 4){
-                            //TODO show one of the Tastes in the EverythinSection
-                            hookerSuggestion.setText("Alles");
+                            //TODO show one of the Tastes in the EverythinList
+                            hookerSuggestion.setText(everythingList[randomSearch(everythingList.length)]);
                         }
             }
 
@@ -101,8 +106,8 @@ public class HookerGeneratorFragment extends Fragment {
 
     //TODO implement a Random Number Generator ---- easy!
     //@param lengthOfList : an Int to calculate the random number and avoid a Nullpointer
-    public void randomSearch(int lengthOfList){
-        randomNumber = 1 + randomizer.nextInt(lengthOfList);
+    public int randomSearch(int lengthOfList){
+        return randomNumber = 0 + randomizer.nextInt(lengthOfList);
     }
 
 
