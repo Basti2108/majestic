@@ -6,6 +6,11 @@
     tools:context="com.procoding.majestic.fragments.HookerGeneratorFragment">
 
 
+    <Spinner
+        android:id="@+id/spinner_hooker"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/majesticTextColor">
 
-
+    </Spinner>
 </FrameLayout>

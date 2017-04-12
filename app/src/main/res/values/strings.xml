@@ -23,6 +23,12 @@
     </string-array>
     <string name="title_activity_start">StartActivity</string>
     <string name="title_activity_maps">Map</string>
+    <string-array name="hooker_tastes">
+        <item>Fruchtig</item>
+        <item>Frisch</item>
+        <item>Fruchtig/Frisch</item>
+        <item>Cremig</item>
+    </string-array>
 
 
 </resources>
