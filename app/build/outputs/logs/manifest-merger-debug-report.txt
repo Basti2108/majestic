@@ -1,0 +1,142 @@
+-- Merging decision tree log ---
+manifest
+ADDED from A:\Documents\Programmieren\Projects\Android_Apps\Majestic\app\src\main\AndroidManifest.xml:2:1-52:12
+	package
+		ADDED from A:\Documents\Programmieren\Projects\Android_Apps\Majestic\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from A:\Documents\Programmieren\Projects\Android_Apps\Majestic\app\src\main\AndroidManifest.xml
+		INJECTED from A:\Documents\Programmieren\Projects\Android_Apps\Majestic\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from A:\Documents\Programmieren\Projects\Android_Apps\Majestic\app\src\main\AndroidManifest.xml
+		INJECTED from A:\Documents\Programmieren\Projects\Android_Apps\Majestic\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from A:\Documents\Programmieren\Projects\Android_Apps\Majestic\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from A:\Documents\Programmieren\Projects\Android_Apps\Majestic\app\src\main\AndroidManifest.xml
+		INJECTED from A:\Documents\Programmieren\Projects\Android_Apps\Majestic\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from A:\Documents\Programmieren\Projects\Android_Apps\Majestic\app\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from A:\Documents\Programmieren\Projects\Android_Apps\Majestic\app\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from A:\Documents\Programmieren\Projects\Android_Apps\Majestic\app\src\main\AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from A:\Documents\Programmieren\Projects\Android_Apps\Majestic\app\src\main\AndroidManifest.xml:14:22-78
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from A:\Documents\Programmieren\Projects\Android_Apps\Majestic\app\src\main\AndroidManifest.xml:15:5-97
+	android:name
+		ADDED from A:\Documents\Programmieren\Projects\Android_Apps\Majestic\app\src\main\AndroidManifest.xml:15:22-95
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from A:\Documents\Programmieren\Projects\Android_Apps\Majestic\app\src\main\AndroidManifest.xml:16:5-80
+	android:name
+		ADDED from A:\Documents\Programmieren\Projects\Android_Apps\Majestic\app\src\main\AndroidManifest.xml:16:22-78
+application
+ADDED from A:\Documents\Programmieren\Projects\Android_Apps\Majestic\app\src\main\AndroidManifest.xml:18:5-50:19
+MERGED from [com.android.support:cardview-v7:25.1.1] C:\Users\Basti\.android\build-cache\f6941565df034b8b4618ac1855b0d3a584974a99\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:25.1.1] C:\Users\Basti\.android\build-cache\11f23bb6d7a2c4af802ee5dc214998a123d7ee1a\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\Basti\.android\build-cache\f0df778dcf6a13d2ab03e1a587ddae94f8da5079\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\Basti\.android\build-cache\0c5ec9cdcccdd76cc55eb7eae0c00b7f9fce69c8\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\Basti\.android\build-cache\a7bd1de2f38a550b8431c7fc4ef5f88a3c884d86\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.1.1] C:\Users\Basti\.android\build-cache\deca63f009d44400e33968effa1ea55cc5b4c65e\output\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:10.2.0] C:\Users\Basti\.android\build-cache\7836b35f28013230c16526880cd1cb2cd88cdd0e\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\Basti\.android\build-cache\82da47f04c0ecd55efbd0e69d6041e8b21a77a41\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.0] C:\Users\Basti\.android\build-cache\523297b33fa9b8d520aac9a3f3456e3b2d7a0b27\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.0] C:\Users\Basti\.android\build-cache\4b1ab771cc738fd09a4aba0d3566f7901a2ad1af\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\Basti\.android\build-cache\54c8b1c256555672498c9c048cfd7814477bde85\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\Basti\.android\build-cache\5f08407f581890b9f658e9e9fd27b815a4db3f2f\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\Basti\.android\build-cache\e2d1cf0ac3fa47fb33032c2f4239290c37ffe8b6\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\Basti\.android\build-cache\ee52e0010951c5f2db185c72aa6a71b59525becc\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\Basti\.android\build-cache\08ccae8dde2e0b8313f908a703dcdb0ec2001c7e\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\Basti\.android\build-cache\9a441ad0219e648105765931480eb3f2377b4486\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from A:\Documents\Programmieren\Projects\Android_Apps\Majestic\app\src\main\AndroidManifest.xml:21:9-41
+	android:supportsRtl
+		ADDED from A:\Documents\Programmieren\Projects\Android_Apps\Majestic\app\src\main\AndroidManifest.xml:23:9-35
+	android:allowBackup
+		ADDED from A:\Documents\Programmieren\Projects\Android_Apps\Majestic\app\src\main\AndroidManifest.xml:19:9-35
+	android:icon
+		ADDED from A:\Documents\Programmieren\Projects\Android_Apps\Majestic\app\src\main\AndroidManifest.xml:20:9-45
+	android:theme
+		ADDED from A:\Documents\Programmieren\Projects\Android_Apps\Majestic\app\src\main\AndroidManifest.xml:24:9-40
+	android:logo
+		ADDED from A:\Documents\Programmieren\Projects\Android_Apps\Majestic\app\src\main\AndroidManifest.xml:22:9-45
+activity#com.procoding.majestic.activities.StartActivity
+ADDED from A:\Documents\Programmieren\Projects\Android_Apps\Majestic\app\src\main\AndroidManifest.xml:25:9-35:20
+	android:screenOrientation
+		ADDED from A:\Documents\Programmieren\Projects\Android_Apps\Majestic\app\src\main\AndroidManifest.xml:28:13-49
+	android:label
+		ADDED from A:\Documents\Programmieren\Projects\Android_Apps\Majestic\app\src\main\AndroidManifest.xml:27:13-45
+	android:theme
+		ADDED from A:\Documents\Programmieren\Projects\Android_Apps\Majestic\app\src\main\AndroidManifest.xml:29:13-56
+	android:name
+		ADDED from A:\Documents\Programmieren\Projects\Android_Apps\Majestic\app\src\main\AndroidManifest.xml:26:13-75
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from A:\Documents\Programmieren\Projects\Android_Apps\Majestic\app\src\main\AndroidManifest.xml:30:13-34:29
+action#android.intent.action.MAIN
+ADDED from A:\Documents\Programmieren\Projects\Android_Apps\Majestic\app\src\main\AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from A:\Documents\Programmieren\Projects\Android_Apps\Majestic\app\src\main\AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from A:\Documents\Programmieren\Projects\Android_Apps\Majestic\app\src\main\AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from A:\Documents\Programmieren\Projects\Android_Apps\Majestic\app\src\main\AndroidManifest.xml:33:27-74
+meta-data#com.google.android.geo.API_KEY
+ADDED from A:\Documents\Programmieren\Projects\Android_Apps\Majestic\app\src\main\AndroidManifest.xml:45:9-47:55
+	android:value
+		ADDED from A:\Documents\Programmieren\Projects\Android_Apps\Majestic\app\src\main\AndroidManifest.xml:47:13-52
+	android:name
+		ADDED from A:\Documents\Programmieren\Projects\Android_Apps\Majestic\app\src\main\AndroidManifest.xml:46:13-58
+uses-sdk
+INJECTED from A:\Documents\Programmieren\Projects\Android_Apps\Majestic\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:cardview-v7:25.1.1] C:\Users\Basti\.android\build-cache\f6941565df034b8b4618ac1855b0d3a584974a99\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:25.1.1] C:\Users\Basti\.android\build-cache\11f23bb6d7a2c4af802ee5dc214998a123d7ee1a\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\Basti\.android\build-cache\f0df778dcf6a13d2ab03e1a587ddae94f8da5079\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\Basti\.android\build-cache\0c5ec9cdcccdd76cc55eb7eae0c00b7f9fce69c8\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\Basti\.android\build-cache\a7bd1de2f38a550b8431c7fc4ef5f88a3c884d86\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.1.1] C:\Users\Basti\.android\build-cache\3f67c5204ba2f658ac8eb568bef6e8bf9e3df745\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.1.1] C:\Users\Basti\.android\build-cache\deca63f009d44400e33968effa1ea55cc5b4c65e\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:10.2.0] C:\Users\Basti\.android\build-cache\7836b35f28013230c16526880cd1cb2cd88cdd0e\output\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\Basti\.android\build-cache\82da47f04c0ecd55efbd0e69d6041e8b21a77a41\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.0] C:\Users\Basti\.android\build-cache\523297b33fa9b8d520aac9a3f3456e3b2d7a0b27\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.0] C:\Users\Basti\.android\build-cache\4b1ab771cc738fd09a4aba0d3566f7901a2ad1af\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\Basti\.android\build-cache\54c8b1c256555672498c9c048cfd7814477bde85\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\Basti\.android\build-cache\5f08407f581890b9f658e9e9fd27b815a4db3f2f\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\Basti\.android\build-cache\e2d1cf0ac3fa47fb33032c2f4239290c37ffe8b6\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\Basti\.android\build-cache\ee52e0010951c5f2db185c72aa6a71b59525becc\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\Basti\.android\build-cache\08ccae8dde2e0b8313f908a703dcdb0ec2001c7e\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\Basti\.android\build-cache\9a441ad0219e648105765931480eb3f2377b4486\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.1.1] C:\Users\Basti\.android\build-cache\11f23bb6d7a2c4af802ee5dc214998a123d7ee1a\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from A:\Documents\Programmieren\Projects\Android_Apps\Majestic\app\src\main\AndroidManifest.xml
+		INJECTED from A:\Documents\Programmieren\Projects\Android_Apps\Majestic\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from A:\Documents\Programmieren\Projects\Android_Apps\Majestic\app\src\main\AndroidManifest.xml
+		INJECTED from A:\Documents\Programmieren\Projects\Android_Apps\Majestic\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:10.2.0] C:\Users\Basti\.android\build-cache\7836b35f28013230c16526880cd1cb2cd88cdd0e\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:10.2.0] C:\Users\Basti\.android\build-cache\7836b35f28013230c16526880cd1cb2cd88cdd0e\output\AndroidManifest.xml:19:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:10.2.0] C:\Users\Basti\.android\build-cache\7836b35f28013230c16526880cd1cb2cd88cdd0e\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:10.2.0] C:\Users\Basti\.android\build-cache\7836b35f28013230c16526880cd1cb2cd88cdd0e\output\AndroidManifest.xml:20:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.2.0] C:\Users\Basti\.android\build-cache\7836b35f28013230c16526880cd1cb2cd88cdd0e\output\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.2.0] C:\Users\Basti\.android\build-cache\7836b35f28013230c16526880cd1cb2cd88cdd0e\output\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.2.0] C:\Users\Basti\.android\build-cache\7836b35f28013230c16526880cd1cb2cd88cdd0e\output\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\Basti\.android\build-cache\82da47f04c0ecd55efbd0e69d6041e8b21a77a41\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\Basti\.android\build-cache\82da47f04c0ecd55efbd0e69d6041e8b21a77a41\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\Basti\.android\build-cache\82da47f04c0ecd55efbd0e69d6041e8b21a77a41\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\Basti\.android\build-cache\82da47f04c0ecd55efbd0e69d6041e8b21a77a41\output\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.2.0] C:\Users\Basti\.android\build-cache\4b1ab771cc738fd09a4aba0d3566f7901a2ad1af\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.2.0] C:\Users\Basti\.android\build-cache\4b1ab771cc738fd09a4aba0d3566f7901a2ad1af\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.2.0] C:\Users\Basti\.android\build-cache\4b1ab771cc738fd09a4aba0d3566f7901a2ad1af\output\AndroidManifest.xml:20:20-65
