@@ -1,4 +1,4 @@
-#Thu Apr 13 14:15:32 CEST 2017
+#Thu Apr 13 16:22:44 CEST 2017
 base.0=A\:\\Documents\\Programmieren\\Projects\\Android_Apps\\Majestic\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_79d904e0e339f48b4bbb6b105a9aea476a1af1f5
 renamed.1=classes.dex
 renamed.0=classes2.dex

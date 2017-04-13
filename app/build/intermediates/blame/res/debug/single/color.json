@@ -56,12 +56,12 @@
         "source": "C:\\Users\\Basti\\.android\\build-cache\\f0df778dcf6a13d2ab03e1a587ddae94f8da5079\\output\\res\\color\\abc_tint_default.xml"
     },
     {
-        "merged": "A:\\Documents\\Programmieren\\Projects\\Android_Apps\\Majestic\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
-        "source": "C:\\Users\\Basti\\.android\\build-cache\\11f23bb6d7a2c4af802ee5dc214998a123d7ee1a\\output\\res\\color\\design_tint_password_toggle.xml"
-    },
-    {
         "merged": "A:\\Documents\\Programmieren\\Projects\\Android_Apps\\Majestic\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
         "source": "C:\\Users\\Basti\\.android\\build-cache\\f0df778dcf6a13d2ab03e1a587ddae94f8da5079\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "A:\\Documents\\Programmieren\\Projects\\Android_Apps\\Majestic\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
+        "source": "C:\\Users\\Basti\\.android\\build-cache\\11f23bb6d7a2c4af802ee5dc214998a123d7ee1a\\output\\res\\color\\design_tint_password_toggle.xml"
     },
     {
         "merged": "A:\\Documents\\Programmieren\\Projects\\Android_Apps\\Majestic\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
