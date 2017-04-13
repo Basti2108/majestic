@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Basti\.android\build-cache\76abe7bfef6435f9287f105f11a6dc8f03160d53\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
+        <dex dex="A:\Documents\Programmieren\Projects\Android_Apps\Majestic\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bfde57ecc5758ee275a1b2509b01740a5af6663c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="A:\Documents\Programmieren\Projects\Android_Apps\Majestic\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="817149a9601ef6b888681a697456ed28e74ad93a">
+        <dex dex="A:\Documents\Programmieren\Projects\Android_Apps\Majestic\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_79d904e0e339f48b4bbb6b105a9aea476a1af1f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Basti\.android\build-cache\eeec7bc147983ada4965e1740d5352d029f681cc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3d6951cb416ebf8c66a32b9480808ca247b68344">
+        <dex dex="A:\Documents\Programmieren\Projects\Android_Apps\Majestic\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ff740b0e41eae5e16ccd48c5b62bca9fcce8b2bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="A:\Documents\Programmieren\Projects\Android_Apps\Majestic\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="A:\Documents\Programmieren\Projects\Android_Apps\Majestic\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_7732433c1508406ed942865389305778b166dc3e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Basti\.android\build-cache\30e0e26922b70c0d78fa665c9d2c1e90ae57d0a7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
+        <dex dex="A:\Documents\Programmieren\Projects\Android_Apps\Majestic\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_012115f016f579e13d5fe28b5d2d1140e46b2ef9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Basti\.android\build-cache\1426820577bc973085841cbf4af6d02c48827249\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
+        <dex dex="A:\Documents\Programmieren\Projects\Android_Apps\Majestic\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9449fba6209556d30b4172815805316c7eb19dd0\classes.dex" />
+    </item>
+
+</items>

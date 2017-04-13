@@ -1,0 +1,37 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/majesticTheme"
+    tools:context="com.procoding.majestic.fragments.HookerGeneratorFragment">
+
+
+    <Spinner
+        android:id="@+id/spinner_hooker"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@android:drawable/btn_dropdown"
+        android:spinnerMode="dialog"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true">
+    </Spinner>
+
+    <Button
+        android:id="@+id/button_random_hooker"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Vorschlag"
+        android:layout_below="@+id/spinner_hooker"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:id="@+id/textView_Hooker"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/button_random_hooker"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="95dp"
+        android:textColor="@color/majesticTextColor"
+        android:text="" />
+
+</RelativeLayout>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "A:\\Documents\\Programmieren\\Projects\\Android_Apps\\Majestic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\majestic_icon.png",
+        "source": "A:\\Documents\\Programmieren\\Projects\\Android_Apps\\Majestic\\app\\src\\main\\res\\mipmap-hdpi\\majestic_icon.png"
+    },
+    {
+        "merged": "A:\\Documents\\Programmieren\\Projects\\Android_Apps\\Majestic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "A:\\Documents\\Programmieren\\Projects\\Android_Apps\\Majestic\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]

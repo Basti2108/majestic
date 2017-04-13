@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/navStart"
+            android:title="Startseite" />
+        <item
+            android:id="@+id/navReservation"
+            android:title="Reservierung" />
+        <item
+            android:id="@+id/navApproach"
+            android:title="Anfahrt" />
+        <item
+            android:id="@+id/navContact"
+            android:title="Kontakt" />
+        <item
+            android:id="@+id/navHookerGen"
+            android:title="Shisha Generator" />
+    </group>
+
+    <item android:title="Kommunitkation">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Teile Majestic mit Freunden!" />
+        </menu>
+    </item>
+
+</menu>
